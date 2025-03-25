@@ -141,3 +141,29 @@ body {
     background-color: transparent;
     color: var(--desaturated-blue);
 }
+
+/**** Responsive design version mobile ****/
+
+@media screen and (max-width: 572px) {
+    body {
+        background-image: url(images/pattern-background-mobile.svg);
+        padding: 80px 0;
+    }
+
+    .card__container {
+        width: 90%;
+    }
+
+    .card__container__description {
+        padding: 20px;
+    }
+
+    .card__container__article__plan {
+        margin-left: -24px;
+    }
+
+    .card__container--proceed__btn,
+    .card__container--cancel__btn {
+        font-size: 17px;
+    }
+}
