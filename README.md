@@ -12,7 +12,7 @@ les utilisateurs doivent pouvoir :
 
 ## Démonstration
 
-Lien vers le projet :
+Lien vers le projet : https://aperbet56.github.io/frontend_mentor_order_summary_card_component/
 
 ## Projet développé avec
 
